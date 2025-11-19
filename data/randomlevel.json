@@ -1,0 +1,82 @@
+[
+    {"id": 0, "left": "stairs_down", "center": "stairs_down", "right": "stairs_down", "image": "images/game/variations/variation_00.png"},
+    {"id": 1, "left": "stairs_down", "center": "stairs_down", "right": "stairs_up", "image": "images/game/variations/variation_01.png"},
+    {"id": 2, "left": "stairs_down", "center": "stairs_down", "right": "door", "image": "images/game/variations/variation_02.png"},
+    {"id": 3, "left": "stairs_down", "center": "stairs_down", "right": "hall", "image": "images/game/variations/variation_03.png"},
+
+    {"id": 4, "left": "stairs_down", "center": "stairs_up", "right": "stairs_down", "image": "images/game/variations/variation_04.png"},
+    {"id": 5, "left": "stairs_down", "center": "stairs_up", "right": "stairs_up", "image": "images/game/variations/variation_05.png"},
+    {"id": 6, "left": "stairs_down", "center": "stairs_up", "right": "door", "image": "images/game/variations/variation_06.png"},
+    {"id": 7, "left": "stairs_down", "center": "stairs_up", "right": "hall", "image": "images/game/variations/variation_07.png"},
+
+    {"id": 8, "left": "stairs_down", "center": "door", "right": "stairs_down", "image": "images/game/variations/variation_08.png"},
+    {"id": 9, "left": "stairs_down", "center": "door", "right": "stairs_up", "image": "images/game/variations/variation_09.png"},
+    {"id": 10, "left": "stairs_down", "center": "door", "right": "door", "image": "images/game/variations/variation_10.png"},
+    {"id": 11, "left": "stairs_down", "center": "door", "right": "hall", "image": "images/game/variations/variation_11.png"},
+
+    {"id": 12, "left": "stairs_down", "center": "hall", "right": "stairs_down", "image": "images/game/variations/variation_12.png"},
+    {"id": 13, "left": "stairs_down", "center": "hall", "right": "stairs_up", "image": "images/game/variations/variation_13.png"},
+    {"id": 14, "left": "stairs_down", "center": "hall", "right": "door", "image": "images/game/variations/variation_14.png"},
+    {"id": 15, "left": "stairs_down", "center": "hall", "right": "hall", "image": "images/game/variations/variation_15.png"},
+
+    {"id": 16, "left": "stairs_up", "center": "stairs_down", "right": "stairs_down", "image": "images/game/variations/variation_16.png"},
+    {"id": 17, "left": "stairs_up", "center": "stairs_down", "right": "stairs_up", "image": "images/game/variations/variation_17.png"},
+    {"id": 18, "left": "stairs_up", "center": "stairs_down", "right": "door", "image": "images/game/variations/variation_18.png"},
+    {"id": 19, "left": "stairs_up", "center": "stairs_down", "right": "hall", "image": "images/game/variations/variation_19.png"},
+
+    {"id": 20, "left": "stairs_up", "center": "stairs_up", "right": "stairs_down", "image": "images/game/variations/variation_20.png"},
+    {"id": 21, "left": "stairs_up", "center": "stairs_up", "right": "stairs_up", "image": "images/game/variations/variation_21.png"},
+    {"id": 22, "left": "stairs_up", "center": "stairs_up", "right": "door", "image": "images/game/variations/variation_22.png"},
+    {"id": 23, "left": "stairs_up", "center": "stairs_up", "right": "hall", "image": "images/game/variations/variation_23.png"},
+
+    {"id": 24, "left": "stairs_up", "center": "door", "right": "stairs_down", "image": "images/game/variations/variation_24.png"},
+    {"id": 25, "left": "stairs_up", "center": "door", "right": "stairs_up", "image": "images/game/variations/variation_25.png"},
+    {"id": 26, "left": "stairs_up", "center": "door", "right": "door", "image": "images/game/variations/variation_26.png"},
+    {"id": 27, "left": "stairs_up", "center": "door", "right": "hall", "image": "images/game/variations/variation_27.png"},
+
+    {"id": 28, "left": "stairs_up", "center": "hall", "right": "stairs_down", "image": "images/game/variations/variation_28.png"},
+    {"id": 29, "left": "stairs_up", "center": "hall", "right": "stairs_up", "image": "images/game/variations/variation_29.png"},
+    {"id": 30, "left": "stairs_up", "center": "hall", "right": "door", "image": "images/game/variations/variation_30.png"},
+    {"id": 31, "left": "stairs_up", "center": "hall", "right": "hall", "image": "images/game/variations/variation_31.png"},
+
+    {"id": 32, "left": "door", "center": "stairs_down", "right": "stairs_down", "image": "images/game/variations/variation_32.png"},
+    {"id": 33, "left": "door", "center": "stairs_down", "right": "stairs_up", "image": "images/game/variations/variation_33.png"},
+    {"id": 34, "left": "door", "center": "stairs_down", "right": "door", "image": "images/game/variations/variation_34.png"},
+    {"id": 35, "left": "door", "center": "stairs_down", "right": "hall", "image": "images/game/variations/variation_35.png"},
+
+    {"id": 36, "left": "door", "center": "stairs_up", "right": "stairs_down", "image": "images/game/variations/variation_36.png"},
+    {"id": 37, "left": "door", "center": "stairs_up", "right": "stairs_up", "image": "images/game/variations/variation_37.png"},
+    {"id": 38, "left": "door", "center": "stairs_up", "right": "door", "image": "images/game/variations/variation_38.png"},
+    {"id": 39, "left": "door", "center": "stairs_up", "right": "hall", "image": "images/game/variations/variation_39.png"},
+
+    {"id": 40, "left": "door", "center": "door", "right": "stairs_down", "image": "images/game/variations/variation_40.png"},
+    {"id": 41, "left": "door", "center": "door", "right": "stairs_up", "image": "images/game/variations/variation_41.png"},
+    {"id": 42, "left": "door", "center": "door", "right": "door", "image": "images/game/variations/variation_42.png"},
+    {"id": 43, "left": "door", "center": "door", "right": "hall", "image": "images/game/variations/variation_43.png"},
+
+    {"id": 44, "left": "door", "center": "hall", "right": "stairs_down", "image": "images/game/variations/variation_44.png"},
+    {"id": 45, "left": "door", "center": "hall", "right": "stairs_up", "image": "images/game/variations/variation_45.png"},
+    {"id": 46, "left": "door", "center": "hall", "right": "door", "image": "images/game/variations/variation_46.png"},
+    {"id": 47, "left": "door", "center": "hall", "right": "hall", "image": "images/game/variations/variation_47.png"},
+
+    {"id": 48, "left": "hall", "center": "stairs_down", "right": "stairs_down", "image": "images/game/variations/variation_48.png"},
+    {"id": 49, "left": "hall", "center": "stairs_down", "right": "stairs_up", "image": "images/game/variations/variation_49.png"},
+    {"id": 50, "left": "hall", "center": "stairs_down", "right": "door", "image": "images/game/variations/variation_50.png"},
+    {"id": 51, "left": "hall", "center": "stairs_down", "right": "hall", "image": "images/game/variations/variation_51.png"},
+
+    {"id": 52, "left": "hall", "center": "stairs_up", "right": "stairs_down", "image": "images/game/variations/variation_52.png"},
+    {"id": 53, "left": "hall", "center": "stairs_up", "right": "stairs_up", "image": "images/game/variations/variation_53.png"},
+    {"id": 54, "left": "hall", "center": "stairs_up", "right": "door", "image": "images/game/variations/variation_54.png"},
+    {"id": 55, "left": "hall", "center": "stairs_up", "right": "hall", "image": "images/game/variations/variation_55.png"},
+
+    {"id": 56, "left": "hall", "center": "door", "right": "stairs_down", "image": "images/game/variations/variation_56.png"},
+    {"id": 57, "left": "hall", "center": "door", "right": "stairs_up", "image": "images/game/variations/variation_57.png"},
+    {"id": 58, "left": "hall", "center": "door", "right": "door", "image": "images/game/variations/variation_58.png"},
+    {"id": 59, "left": "hall", "center": "door", "right": "hall", "image": "images/game/variations/variation_59.png"},
+
+    {"id": 60, "left": "hall", "center": "hall", "right": "stairs_down", "image": "images/game/variations/variation_60.png"},
+    {"id": 61, "left": "hall", "center": "hall", "right": "stairs_up", "image": "images/game/variations/variation_61.png"},
+    {"id": 62, "left": "hall", "center": "hall", "right": "door", "image": "images/game/variations/variation_62.png"},
+    {"id": 63, "left": "hall", "center": "hall", "right": "hall", "image": "images/game/variations/variation_63.png"}
+]
+
